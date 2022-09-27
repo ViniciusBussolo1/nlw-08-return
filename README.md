@@ -28,7 +28,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/ViniciusBussolo1/nlw-06-reactjs.git
+$ git clone https://github.com/ViniciusBussolo1/nlw-08-reactjs.git
 $ cd nlw-08-reactjs
 ```
 
